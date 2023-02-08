@@ -1,0 +1,1 @@
+" 2xmlXhr*src/main/res/xml/data_extraction_rules.xml

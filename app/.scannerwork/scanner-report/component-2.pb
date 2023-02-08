@@ -1,0 +1,1 @@
+ 2kotlinXhr@src/androidTest/java/com/example/sncf/ExampleInstrumentedTest.kt

@@ -1,0 +1,6 @@
+projectKey=SNCF-app
+serverUrl=https://forge-sonar.iut-larochelle.fr
+serverVersion=8.9.2.46101
+dashboardUrl=https://forge-sonar.iut-larochelle.fr/dashboard?id=SNCF-app
+ceTaskId=AYYw0Kg9XSfW_kBY_QQ-
+ceTaskUrl=https://forge-sonar.iut-larochelle.fr/api/ce/task?id=AYYw0Kg9XSfW_kBY_QQ-

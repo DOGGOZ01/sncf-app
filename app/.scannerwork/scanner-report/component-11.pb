@@ -1,0 +1,1 @@
+ 2xmlX«hr0src/main/res/drawable/ic_launcher_background.xml

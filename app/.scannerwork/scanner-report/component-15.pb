@@ -1,0 +1,1 @@
+ 2xmlXhr.src/main/res/mipmap-anydpi-v26/ic_launcher.xml
