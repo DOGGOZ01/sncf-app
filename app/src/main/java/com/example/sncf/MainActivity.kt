@@ -24,7 +24,7 @@ import java.io.IOException
 class MainActivity : AppCompatActivity() {
     private val sncfAPI: SNCFapi = SNCFapi(
         "https://api.sncf.com/v1",
-        "fd590875-e7cb-47ab-a4de-1e8749b075bf"
+        "token"
     )
 
 
